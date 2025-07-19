@@ -110,6 +110,8 @@ Blog_Website/
 └── package-lock.json
 ```
 
+---
+
 ## 🖼️ Screenshots
 
 ### Home Page
@@ -128,6 +130,8 @@ Blog_Website/
 ### Add New Blog Page
 
 ![Home Page](assets/AddBlog.png)
+
+---
 
 ## 🚀 How to Run Locally
 
