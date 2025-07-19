@@ -114,12 +114,22 @@ Blog_Website/
 
 ## 🖼️ Screenshots
 
-> (You can add screenshots here using: `![Alt Text](path-to-image)`)
+### Home Page
 
-- Home Page
-- Admin Login Page
-- Admin Dashboard
-- Blog Post Page
+![Home Page](assets/Home1.png)
+![Home Page](assets/Home2.png)
+
+### Adim Register and Login Page
+
+![Home Page](assets/Admin.png)
+
+### Admin Dashboard
+
+![Home Page](assets/AdminDashboard.png)
+
+### Add New Blog Page
+
+![Home Page](assets/AddBlog.png)
 
 ---
 
