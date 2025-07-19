@@ -19,8 +19,6 @@ A full-stack **Blog Website** developed using **Node.js**, **Express.js**, **EJS
 
 In today's digital world, blogs are essential for information sharing, community building, and self-expression. This project serves as a dynamic hub for users to **publish blogs**, **engage with content**, and **manage their posts** through a clean, responsive interface.
 
-The project was developed as a part of the **4th Semester Project-II (CSE210)** at **DEPSTAR, CHARUSAT**, under the guidance of **Dr. Krishna Patel**.
-
 ---
 
 ## ✨ Features
